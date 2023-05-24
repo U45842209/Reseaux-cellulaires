@@ -101,26 +101,4 @@ Nb Cellule*Nb Canaux par cellule
 
 [Topologie]: https://www.technologuepro.com/gsm/chapitre_2_GSM.htm
 
-## Correction éval
 
-1)
-
-- Cluster
-
-2)
-
-- A partir de la mesure de la puissance du signal
-
-3)
-
-- 
-
-4)
-
-- 
-
-Exo:
-
-1 - D=Nb bits/t
-
-2 - Les bits de 0 à 1 sont
