@@ -1,4 +1,4 @@
-# R404 - Réseaux cellulaires
+#Réseaux cellulaires
 
 AMPS (1G) : 1980 - Voix
 
